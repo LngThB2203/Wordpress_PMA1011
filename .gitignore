@@ -1,12 +1,13 @@
-# WordPress core (bỏ)
-wp-admin/
-wp-includes/
+# Config (mỗi người tự chỉnh)
+wp-config.php
 
-# Uploads (ảnh nặng)
+# Uploads (ảnh riêng từng máy)
 wp-content/uploads/
 
-# Config
-wp-config.php
+# Cache / logs
+wp-content/cache/
+wp-content/litespeed/
+wp-content/wflogs/
 
 # Others
 node_modules/
