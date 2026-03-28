@@ -1,0 +1,13 @@
+# WordPress core (bỏ)
+wp-admin/
+wp-includes/
+
+# Uploads (ảnh nặng)
+wp-content/uploads/
+
+# Config
+wp-config.php
+
+# Others
+node_modules/
+.env
